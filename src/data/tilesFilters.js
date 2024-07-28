@@ -25,12 +25,11 @@ const filters = [
   {
     "name": "Look",
     "content": {
-      "small": ["Subway", "4"],
-      "middle": ["Subway1", "5"],
-      "middle2": ["Subway1", "5"],
-      "middle3": ["Subway1", "5"],
-      "middle4": ["Subway1", "5"],
-      "middle5": ["Subway1", "5"]
+      "rafe": ["Cafe", "4"],
+      "restaurant": ["Restaurant", "3"],
+      "park": ["Park", "5"],
+      "museum": ["Museum", "7"],
+      "library": ["Library", "10"]
     }
   }
 ]

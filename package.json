@@ -12,10 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "module-alias": "^2.2.3"
   },
   "devDependencies": {
     "@types/node": "^20.14.12",
     "typescript": "^5.5.4"
+  },
+  "_moduleAliases": {
+    "data": "src/data"
   }
 }
