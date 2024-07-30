@@ -1,6 +1,6 @@
 const paint = [
   {
-    "texture": "Pictures/paint/Emerald Interior Acrylic Latex Paint.png",
+    "texture": "https://happyusersback-production.up.railway.app/Pictures/paint/Emerald Interior Acrylic Latex Paint.png",
     "title": "Emerald Interior Acrylic Latex Paint"
   },
 ]
