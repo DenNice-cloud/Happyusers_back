@@ -1,7 +1,7 @@
 const tiles = [
   {
     "texture": "https://happyusersback-production.up.railway.app/Pictures/texture/98dc50765487ada8dcf6b12584394faf.png",
-    "title": "name1 some color"
+    "title": "Wall and Floor Tile"
   },
   {
     "texture": "https://happyusersback-production.up.railway.app/Pictures/texture/Jerica Mix Porcelain Wall and Floor Tile - 3 x 12 .png",
