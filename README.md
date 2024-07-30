@@ -13,8 +13,8 @@
 **Link to frontend part** - https://github.com/DenNice-cloud/Happyusers
 
 # API Routes:
-https://happyusersback-production.up.railway.app/textures/tiles: Returns tile data, including textures, filters, and brands.
-https://happyusersback-production.up.railway.app/textures/paint: Returns paint data, including textures, filters, and brands.
+ - https://happyusersback-production.up.railway.app/textures/tiles: Returns tile data, including textures, filters, and brands.
+ - https://happyusersback-production.up.railway.app/textures/paint: Returns paint data, including textures, filters, and brands.
 
 ## Setup Instructions
 To run this project locally, follow these steps:
